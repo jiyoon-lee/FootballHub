@@ -16,13 +16,18 @@
 - 실시간 채팅
 - 챗봇
 
-### 이지윤 담당 역할
+---
+## 이지윤
+### 사용기술
+Spring Boot, MySQL, Thymeleaf, h2, lombok, JPA, jQuery, Bootstrap
+
+### 담당 역할
 - Oauth를 통한 인증인가 구현
 - 카테고리화, 댓글, 평점 기능 구현
   - 댓글, 평점은 ajax를 통한 데이터통신과 DOM조작으로 구현
 - 메인, 로그인, 상세, 주문 페이지 디자인 적용
 
-## UI 캡처
+### UI 캡처
 <img src="./UI캡처/1.png" width="600" />
 <img src="./UI캡처/2.png" width="600" />
 <img src="./UI캡처/3.png" width="600" />
