@@ -23,9 +23,9 @@
 - 메인, 로그인, 상세, 주문 페이지 디자인 적용
 
 ## UI 캡처
-<img src="" width="600" />
-<img src="" width="600" />
-<img src="" width="600" />
-<img src="" width="600" />
-<img src="" width="600" />
-<img src="" width="600" />
+<img src="./UI캡처/1.png" width="600" />
+<img src="./UI캡처/2.png" width="600" />
+<img src="./UI캡처/3.png" width="600" />
+<img src="./UI캡처/4.png" width="600" />
+<img src="./UI캡처/5.png" width="600" />
+<img src="./UI캡처/6.png" width="600" />
