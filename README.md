@@ -32,6 +32,7 @@ Spring Boot, MySQL, Thymeleaf, h2, lombok, JPA, jQuery, Bootstrap
 
 ### UI 캡처
 <img src="./UI캡처/1.png" width="600" />
+<img src="./UI캡처/7.png" width="600" />
 <img src="./UI캡처/2.png" width="600" />
 <img src="./UI캡처/3.png" width="600" />
 <img src="./UI캡처/4.png" width="600" />
