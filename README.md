@@ -18,10 +18,11 @@
 
 ## 데이터베이스
 ### 논리적 모델
-![image](https://github.com/jiyoon-lee/footballHub/assets/59562141/c9a0c0a3-e1ef-417f-81d3-3424f07c2052)
+<img src="https://github.com/jiyoon-lee/footballHub/assets/59562141/c9a0c0a3-e1ef-417f-81d3-3424f07c2052" width="700" />
 
 ### 관계형 모델
-![image](https://github.com/jiyoon-lee/footballHub/assets/59562141/589d8810-e4e7-4853-b498-073f19cc11a6)
+<img src="https://github.com/jiyoon-lee/footballHub/assets/59562141/e694b360-d06f-4b35-a642-6b106e9f0e27" width="700" />
+
 
 
 ---
