@@ -17,12 +17,11 @@
 - 챗봇
 
 ## 데이터베이스
-### E-R 다이어그램
+### 논리적 모델
 ![image](https://github.com/jiyoon-lee/footballHub/assets/59562141/c9a0c0a3-e1ef-417f-81d3-3424f07c2052)
 
-### E-R 다이어그램
+### 관계형 모델
 ![image](https://github.com/jiyoon-lee/footballHub/assets/59562141/589d8810-e4e7-4853-b498-073f19cc11a6)
-
 
 
 ---
